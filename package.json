@@ -1,0 +1,12 @@
+{
+	"name": "amortization-calculator",
+	"version": "1.0.0",
+	"description": "This simple app will help you generate the Amortization table, specifically for mortgage loans",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"type": "module"
+}
